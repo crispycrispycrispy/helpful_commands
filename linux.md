@@ -1,0 +1,65 @@
+## Helpful commands for Linux
+
+ ssh
+ ls
+pwd
+cd
+touch
+echo
+nano
+vim
+cat
+shred
+mkdir
+cp
+rm
+rmdir
+ln
+clear
+whoami
+useradd
+sudo
+adduser
+su
+exit
+passwd
+apt
+finger
+man
+whatis
+curl
+zip
+unzip
+less
+head
+tail
+cmp
+diff
+sort
+find
+chmod
+chown
+ifconfig
+ip address
+grep
+awk
+resolvectl status
+ping
+netstat
+ss
+iptables
+ufw
+uname
+neofetch
+cal
+free
+df
+ps
+top
+htop
+kill
+pkill
+systemctl
+history
+reboot
+shutdown
